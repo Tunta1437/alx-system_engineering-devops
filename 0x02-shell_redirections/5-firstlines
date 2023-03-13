@@ -1,2 +1,2 @@
 #!/bin/bash
-head states | tail -5
+head /etc/passwd
