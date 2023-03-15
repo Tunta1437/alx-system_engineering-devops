@@ -1,2 +1,2 @@
-#!/bin/base
+#!/bin/bash
 echo "ls -la" >ls_cwd_content
